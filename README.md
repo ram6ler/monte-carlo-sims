@@ -6,6 +6,6 @@ The simulation is set up so that 100 points are placed each second. The number o
 
 The basic algorithm for these simulations and the image were provided by [Jeong Seungah](email:1708011290@wya.top) and implemented by [Richard Ambler](email:rambler@ibwya.net), 26 October 2018.
 
-The simulations can be performed here and the code can be viewed here.
+The simulations can be [performed here](https://monte-carlo-simulations-beijing-lake.netlify.com/) and the [code can be viewed here](https://github.com/ram6ler/monte-carlo-sims/blob/master/web/main.dart).
 
 Enjoy!
